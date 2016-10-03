@@ -1,0 +1,6 @@
+{
+  "name": "SRNGen",
+  "tagline": "Sudo Random Number Generator",
+  "body": "### Welcome to GitHub Page of SRNGen.\r\nSCEL presents **Sudo Random Number generator**, lightweight solution using c++/CLI for windows desktop environment.\r\n\r\n### Releases\r\nv0.1 released for x_86 and x_64 based pc.\r\n\r\n### Upgrades\r\n* Modern UI\r\n* Multiple Random number Generation\r\n* Save to .txt option\r\n* Option to choose between different method for Random number generation\r\n\r\n### Authors and Contributors\r\nPurnendu Kumar @PurnenduK90 for @SCE-Labs \r\n\r\n### Support or Contact\r\nIf you want any specific update please mail to scel@satakshi.in or satakshi.india@gmail.com\r\nFor bugs, raise issue in Githud, although you can mail also, but it is less reliable and may take time.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
